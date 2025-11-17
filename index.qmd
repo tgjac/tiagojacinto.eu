@@ -19,5 +19,3 @@ I'm an Professor at the Faculty of Medicine of the University of Porto (FMUP), w
 I teach Medical Informatics, Digital Health and Respiratory Physiology across undergraduate, master’s and doctoral programmes.
 
 My research focuses on the evaluation and validation of diagnostic and monitoring technologies in respiratory diseases, and on the application of artificial intelligence and clinical data analytics to medical decision-making. I also work on digital innovation and the development of mobile applications for clinical practice and chronic disease management.
-
-Current research interests include integrating AI models in respiratory function assessment, phenotyping asthma through digital biomarkers, and using clinical and physiological data to support personalised medical decisions.
