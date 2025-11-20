@@ -1,21 +1,20 @@
 ---
 title: "Tiago Jacinto"
 about:
-  template: trestles
+  template: solana
   image: tj.jpg
-  image-width: 10em
-  image-shape: round
+  image-width: 12em
+  image-shape: rounded
   links:
-    - icon: github
-      text: Github
+    - text: "{{< iconify ri:github-fill >}} Github"
       href: https://github.com/tgjac
+    - text: "{{< iconify ri:linkedin-box-fill >}} Linkedin"
+      href: https://www.linkedin.com/in/tgjac/  
+    - text: "{{< iconify ri:bluesky-fill >}} Bluesky"
+      href: https://bsky.app/profile/tiagojacinto.eu
 toc: false
 ---
+### Hello, I'm Tiago!  
+I'm a Professor at the Faculty of Medicine of the University of Porto (FMUP), with academic training in Health Sciences and Digital Health. I'm the Co-Director of the Master’s in Medical Informatics at FMUP and a member of RISE@Health – Health Research Network, within the thematic line on Digital Transformation, Artificial Intelligence, Data and Decision Sciences in Health.  
 
-## Hello, I'm Tiago.
-
-I'm an Professor at the Faculty of Medicine of the University of Porto (FMUP), with academic training in Health Sciences and Digital Health. I'm the Co-Director of the Master’s in Medical Informatics at FMUP and a member of RISE@Health – Health Research Network, within the thematic line on Digital Transformation, Artificial Intelligence, Data and Decision Sciences in Health.
-
-I teach Medical Informatics, Digital Health and Respiratory Physiology across undergraduate, master’s and doctoral programmes.
-
-My research focuses on the evaluation and validation of diagnostic and monitoring technologies in respiratory diseases, and on the application of artificial intelligence and clinical data analytics to medical decision-making. I also work on digital innovation and the development of mobile applications for clinical practice and chronic disease management.
+Learn more about [me](/about.qmd).

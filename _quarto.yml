@@ -1,19 +1,23 @@
 project:
   type: website
+  preview: 
+    port: 8080
 
 website:
-  title: "tiagojacinto.eu"
+  title: "Tiago Jacinto"
+  search: false
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
+      - href: notes/index.qmd
+        text: Notes
       - about.qmd
 
 format:
   html:
     theme:
-      - litera
-      - brand
+      - sandstone
     css: styles.css
     toc: true
 

@@ -2,4 +2,109 @@
 title: "About"
 ---
 
-About this site
+## Academic Position & Leadership
+
+I'm an Professor at the Faculty of Medicine of the University of Porto (FMUP), with academic training in Health Sciences and Digital Health. I'm the Co-Director of the Master’s in Medical Informatics at FMUP and a member of RISE@Health – Health Research Network, within the thematic line on Digital Transformation, Artificial Intelligence, Data and Decision Sciences in Health.
+
+I teach Medical Informatics, Digital Health and Respiratory Physiology across undergraduate, master’s and doctoral programmes.
+
+My research focuses on the evaluation and validation of diagnostic and monitoring technologies in respiratory diseases, and on the application of artificial intelligence and clinical data analytics to medical decision-making. I also work on digital innovation and the development of mobile applications for clinical practice and chronic disease management.
+
+My academic background spans Health Sciences and Digital Health, with specialized expertise in respiratory physiology, medical informatics, and health technology assessment.
+
+## Research Focus
+
+My research program centers on the intersection of clinical medicine, digital technologies, and data science, with particular emphasis on:
+
+### Digital Health & Respiratory Medicine
+- Evaluation and validation of diagnostic technologies for respiratory diseases
+- Development and testing of monitoring devices for chronic respiratory conditions
+- Assessment of point-of-care testing technologies in pulmonology
+- Clinical validation of digital biomarkers for respiratory health
+
+### Artificial Intelligence & Clinical Decision Support
+- Machine learning applications in medical diagnosis and prognosis
+- Clinical data analytics for evidence-based decision-making
+- Predictive modeling for patient outcomes
+- Integration of AI systems into clinical workflows
+
+### Mobile Health & Digital Innovation
+- Design and development of mobile health applications
+- Patient-centered digital tools for chronic disease management
+- Telemedicine and remote monitoring solutions
+- User experience research in health technology
+
+### Health Informatics & Data Science
+- Electronic health records optimization
+- Health data standards and interoperability
+- Clinical information systems evaluation
+- Big data analytics in healthcare
+
+## Teaching & Mentoring
+
+I teach across multiple academic levels, contributing to the training of the next generation of health professionals and researchers:
+
+### Undergraduate Education
+- Medical Informatics for medical students
+- Introduction to Digital Health
+- Respiratory Physiology
+
+### Graduate Programs
+- Advanced Medical Informatics (Master's level)
+- Digital Health Technologies and Applications
+- Research Methods in Health Informatics
+- Clinical Data Science
+
+### Doctoral Supervision
+- PhD supervision in areas of digital health, medical informatics, and respiratory medicine
+- Co-supervision of interdisciplinary research projects
+- Mentoring of junior researchers and clinical investigators
+
+## Professional Activities & Service
+
+### Clinical Practice Integration
+- Implementation of digital health solutions in clinical settings
+- Bridging the gap between technology development and clinical adoption
+- Clinical informatics consulting for healthcare institutions
+
+### Research Networks & Collaboration
+- Active participation in national and international research networks
+- Collaborative projects with healthcare institutions and technology partners
+- Industry-academia partnerships for health innovation
+
+### Scientific Community Engagement
+- Peer review for scientific journals in medical informatics and respiratory medicine
+- Editorial board participation
+- Organization of scientific events and workshops
+- Conference presentations and invited talks
+
+### Academic Administration
+- Curriculum development for medical informatics programs
+- Quality assurance and accreditation processes
+- Strategic planning for digital health education
+
+## Publications & Impact
+
+My research has resulted in publications in peer-reviewed journals covering:
+
+- Respiratory diagnostic technologies
+- Artificial intelligence in medicine
+- Mobile health applications
+- Clinical informatics systems
+- Health technology assessment
+
+The work emphasizes practical applications that can improve patient care, enhance clinical decision-making, and advance the digital transformation of healthcare systems.
+
+## Vision & Future Directions
+
+I'm committed to advancing the field of digital health through:
+
+- **Evidence-based innovation**: Ensuring new technologies are rigorously evaluated before clinical implementation
+- **Interdisciplinary collaboration**: Bringing together clinicians, data scientists, engineers, and patients
+- **Education excellence**: Preparing healthcare professionals for the digital age
+- **Patient-centered design**: Keeping patient needs and outcomes at the center of technology development
+- **Sustainable healthcare**: Leveraging digital tools to improve efficiency and accessibility of care
+
+---
+
+*For a complete overview of my work, publications, and detailed CV, please download my [curriculum vitae](CV-2025-TJ.pdf).*

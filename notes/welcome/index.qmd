@@ -1,0 +1,10 @@
+---
+title: "Welcome to My Blog"
+author: "Tiago Jacinto"
+date: "2025-11-20"
+categories: [news]
+---
+
+Welcome to my blog! This is where I'll share thoughts, insights, and updates about my work in health sciences, digital health, and medical informatics.
+
+Stay tuned for more content!
