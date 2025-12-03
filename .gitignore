@@ -2,4 +2,4 @@
 /.quarto
 **/*.quarto_ipynb
 
-/.quarto/
+/.quarto/*
