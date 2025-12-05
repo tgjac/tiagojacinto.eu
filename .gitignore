@@ -1,5 +1,7 @@
 /_site
 /.quarto
 **/*.quarto_ipynb
-
 /.quarto/*
+
+/.quarto/
+temp.md

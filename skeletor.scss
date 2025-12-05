@@ -1,0 +1,127 @@
+/*
+Skeletor — Quarto theme
+- Typography: Geist for sans, Geist Mono for code
+- Palette: Tufte-inspired with a green hue (paper #f9fff6, ink #0f1f14, borders #b5cbb5)
+*/
+
+/*-- scss:defaults --*/
+@import url("https://fonts.cdnfonts.com/css/geist");
+@import url("https://fonts.cdnfonts.com/css/geist-mono");
+
+$skeletor-paper: #f9fff6;
+$skeletor-ink: #0f1f14;
+$skeletor-ink-soft: #2f4a37;
+$skeletor-border: #b5cbb5;
+$skeletor-accent: #1f7a52;
+$skeletor-accent-strong: #155739;
+$skeletor-code-bg: #e8f2e6;
+
+$font-family-sans-serif: "Geist", "Helvetica Neue", Arial, sans-serif;
+$font-family-serif: "Geist", Georgia, "Times New Roman", serif;
+$font-family-monospace: "Geist Mono", SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+
+$body-bg: $skeletor-paper;
+$body-color: $skeletor-ink;
+$link-color: $skeletor-accent;
+$link-decoration: underline;
+$link-hover-color: $skeletor-accent-strong;
+$navbar-bg: #0f2a1c;
+$navbar-color: $skeletor-paper;
+$navbar-hover-color: $skeletor-accent;
+$border-color: $skeletor-border;
+$code-bg: $skeletor-code-bg;
+$code-color: $skeletor-ink;
+
+/*-- scss:rules --*/
+:root {
+  --skeletor-paper: #{$skeletor-paper};
+  --skeletor-ink: #{$skeletor-ink};
+  --skeletor-ink-soft: #{$skeletor-ink-soft};
+  --skeletor-border: #{$skeletor-border};
+  --skeletor-accent: #{$skeletor-accent};
+  --skeletor-accent-strong: #{$skeletor-accent-strong};
+  color-scheme: light;
+}
+
+body {
+  background-color: var(--skeletor-paper);
+  color: var(--skeletor-ink);
+  font-family: $font-family-sans-serif;
+  line-height: 1.65;
+  letter-spacing: 0.01em;
+}
+
+main {
+  background-color: var(--skeletor-paper);
+}
+
+.navbar {
+  background-color: $navbar-bg;
+  border-bottom: 1px solid $skeletor-border;
+}
+
+.navbar a.nav-link,
+.navbar-brand {
+  color: $navbar-color;
+}
+
+.navbar a.nav-link:hover,
+.navbar-brand:hover {
+  color: $navbar-hover-color;
+}
+
+a {
+  color: var(--skeletor-accent);
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.18em;
+}
+
+a:hover {
+  color: var(--skeletor-accent-strong);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--skeletor-ink);
+  font-weight: 500;
+  letter-spacing: 0.01em;
+}
+
+hr {
+  border-top: 1px solid var(--skeletor-border);
+}
+
+blockquote {
+  border-left: 3px solid var(--skeletor-border);
+  padding-left: 1rem;
+  margin-left: 0;
+  color: var(--skeletor-ink-soft);
+  background: rgba(0, 0, 0, 0.02);
+}
+
+code, pre {
+  font-family: $font-family-monospace;
+  background-color: $skeletor-code-bg;
+  color: $skeletor-ink;
+}
+
+pre {
+  border: 1px solid var(--skeletor-border);
+  border-radius: 8px;
+  padding: 1rem;
+}
+
+table {
+  border-color: var(--skeletor-border);
+}
+
+table th, table td {
+  border-color: var(--skeletor-border);
+}
+
+.sidebar nav[role="doc-toc"] li a {
+  color: var(--skeletor-ink-soft);
+}
+
+.sidebar nav[role="doc-toc"] li a.active {
+  color: var(--skeletor-accent);
+}

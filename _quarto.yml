@@ -16,10 +16,8 @@ website:
 
 format:
   html:
-    theme:
-      - sandstone
+    theme: [default, skeletor.scss]
     css: styles.css
     toc: true
-
-
+    include-in-header: includes/head.html
 
