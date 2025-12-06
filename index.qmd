@@ -3,11 +3,12 @@ title: "Tiago Jacinto"
 toc: false
 page-layout: full
 ---
-[{{< iconify ri:github-fill size=1.7em >}}](https://github.com/tgjac)
-[{{< iconify ri:linkedin-box-fill size=1.7em >}}](https://www.linkedin.com/in/tgjac/)
-[{{< iconify ri:bluesky-fill size=1.7em >}}](https://bsky.app/profile/tiagojacinto.eu)
-[{{< iconify ri:mastodon-fill size=1.7em >}}](https://scicomm.xyz/@tiagojacinto)
 
+[{{< iconify fa6-brands:github size=1.5em >}}](https://github.com/tgjac)
+[{{< iconify fa6-brands:linkedin-in size=1.5em >}}](https://www.linkedin.com/in/tgjac/)
+[{{< iconify fa6-brands:bluesky size=1.5em >}}](https://bsky.app/profile/tiagojacinto.eu)
+[{{< iconify fa6-brands:mastodon size=1.5em >}}](https://scicomm.xyz/@tiagojacinto)
+[{{< iconify fa6-brands:lastfm size=1.5em >}}](https://www.last.fm/user/tgjac)
 
 ::: {.grid}
 
@@ -17,10 +18,16 @@ page-layout: full
 I'm a Professor at the Faculty of Medicine of the University of Porto (FMUP), with academic training in Health Sciences and Digital Health. I'm the Co-Director of the Master's in Medical Informatics at FMUP and a member of RISE@Health – Health Research Network, within the thematic line on Digital Transformation, Artificial Intelligence, Data and Decision Sciences in Health.  
 
 Learn more about [me](/about.qmd).
+
+::: {.callout-important}
+I'm slowly (re)building this website. Some things are not done and some might break without warning! 
+:::
+
 :::
 
 ::: {.g-col-12 .g-col-md-3 .g-start-md-11 .order-1 .order-md-2}
-![](tj.jpg){width=100% fig-align="right"}
+![](tj-round-bw.png){width=100% fig-align="right"}
+
 :::
 
 :::

@@ -1,33 +1,32 @@
 /*
 Skeletor — Quarto theme
-- Typography: Geist for sans, Geist Mono for code
-- Palette: Tufte-inspired with a green hue (paper #f9fff6, ink #0f1f14, borders #b5cbb5)
+- Typography: IBM Plex Sans for text, IBM Plex Sans Condensed for headings, IBM Plex Mono for code
+- Palette: Skeletor-inspired greys (paper #f7f7fa, ink #1f1f24, accents #3b3b42)
 */
 
 /*-- scss:defaults --*/
-@import url("https://fonts.cdnfonts.com/css/geist");
-@import url("https://fonts.cdnfonts.com/css/geist-mono");
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Sans+Condensed:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap");
 
-$skeletor-paper: #f9fff6;
-$skeletor-ink: #0f1f14;
-$skeletor-ink-soft: #2f4a37;
-$skeletor-border: #b5cbb5;
-$skeletor-accent: #1f7a52;
-$skeletor-accent-strong: #155739;
-$skeletor-code-bg: #e8f2e6;
+$skeletor-paper: #f7f7fa;
+$skeletor-ink: #1f1f24;
+$skeletor-ink-soft: #5e5e66;
+$skeletor-border: #d6d6de;
+$skeletor-accent: #4a4a55;
+$skeletor-accent-strong: #2f2f36;
+$skeletor-code-bg: #ededf2;
 
-$font-family-sans-serif: "Geist", "Helvetica Neue", Arial, sans-serif;
-$font-family-serif: "Geist", Georgia, "Times New Roman", serif;
-$font-family-monospace: "Geist Mono", SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+$font-family-sans-serif: "IBM Plex Sans", "Helvetica Neue", Arial, sans-serif;
+$font-family-condensed: "IBM Plex Sans Condensed", "Helvetica Neue", Arial, sans-serif;
+$font-family-monospace: "IBM Plex Mono", SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 
 $body-bg: $skeletor-paper;
 $body-color: $skeletor-ink;
 $link-color: $skeletor-accent;
 $link-decoration: underline;
 $link-hover-color: $skeletor-accent-strong;
-$navbar-bg: #0f2a1c;
+$navbar-bg: #23232b;
 $navbar-color: $skeletor-paper;
-$navbar-hover-color: $skeletor-accent;
+$navbar-hover-color: $skeletor-border;
 $border-color: $skeletor-border;
 $code-bg: $skeletor-code-bg;
 $code-color: $skeletor-ink;
@@ -58,6 +57,8 @@ main {
 .navbar {
   background-color: $navbar-bg;
   border-bottom: 1px solid $skeletor-border;
+  font-family: $font-family-condensed;
+  font-weight: 600;
 }
 
 .navbar a.nav-link,
@@ -82,8 +83,9 @@ a:hover {
 
 h1, h2, h3, h4, h5, h6 {
   color: var(--skeletor-ink);
-  font-weight: 500;
-  letter-spacing: 0.01em;
+  font-family: $font-family-condensed;
+  font-weight: 600;
+  letter-spacing: -0.01em;
 }
 
 hr {
@@ -91,11 +93,11 @@ hr {
 }
 
 blockquote {
-  border-left: 3px solid var(--skeletor-border);
+  border-left: 3px solid var(--skeletor-accent-strong);
   padding-left: 1rem;
   margin-left: 0;
   color: var(--skeletor-ink-soft);
-  background: rgba(0, 0, 0, 0.02);
+  background: #f0f0f4;
 }
 
 code, pre {

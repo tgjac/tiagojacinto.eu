@@ -14,6 +14,19 @@ website:
         text: Notes
       - about.qmd
 
+  page-footer:
+    left: |
+      {{< iconify ri:creative-commons-fill >}} 2025 Tiago Jacinto
+    center: |
+      Made with [{{< iconify simple-icons:quarto>}}](https://quarto.org/)
+    right: |
+      [{{< iconify fa6-brands:github >}}](https://github.com/tgjac)
+      [{{< iconify fa6-brands:linkedin-in >}}](https://www.linkedin.com/in/tgjac/)
+      [{{< iconify fa6-brands:bluesky >}}](https://bsky.app/profile/tiagojacinto.eu)
+      [{{< iconify fa6-brands:mastodon >}}](https://scicomm.xyz/@tiagojacinto)
+      [{{< iconify fa6-brands:lastfm >}}](https://www.last.fm/user/tgjac)
+
+
 format:
   html:
     theme: [default, skeletor.scss]
