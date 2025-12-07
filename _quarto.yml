@@ -14,14 +14,6 @@ website:
         text: Notes
       - about.qmd
 
-  cookie-consent:
-    type: express
-    style: headline
-    palette: dark
-  google-analytics:
-    tracking-id: "G-3WVN56HVND"
-    anonymize-ip: true
-
   page-footer:
     left: |
       {{< iconify ri:creative-commons-fill >}} 2025 Tiago Jacinto
