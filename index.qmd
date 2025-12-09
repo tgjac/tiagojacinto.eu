@@ -4,11 +4,13 @@ toc: false
 page-layout: full
 ---
 
+[{{< iconify fa6-brands:orcid size=1.5em >}}](https://orcid.org/0000-0002-7897-1101)
 [{{< iconify fa6-brands:github size=1.5em >}}](https://github.com/tgjac)
 [{{< iconify fa6-brands:linkedin-in size=1.5em >}}](https://www.linkedin.com/in/tgjac/)
 [{{< iconify fa6-brands:bluesky size=1.5em >}}](https://bsky.app/profile/tiagojacinto.eu)
-[{{< iconify fa6-brands:mastodon size=1.5em >}}](https://scicomm.xyz/@tiagojacinto)
+[{{< iconify fa6-brands:mastodon size=1.5em >}}](https://social.lol/@tj)
 [{{< iconify fa6-brands:lastfm size=1.5em >}}](https://www.last.fm/user/tgjac)
+
 
 ::: {.grid}
 
