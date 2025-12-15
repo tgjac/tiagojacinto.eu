@@ -7,9 +7,6 @@ page-layout: full
 [{{< iconify fa6-brands:orcid size=1.5em >}}](https://orcid.org/0000-0002-7897-1101)
 [{{< iconify fa6-brands:github size=1.5em >}}](https://github.com/tgjac)
 [{{< iconify fa6-brands:linkedin-in size=1.5em >}}](https://www.linkedin.com/in/tgjac/)
-[{{< iconify fa6-brands:bluesky size=1.5em >}}](https://bsky.app/profile/tiagojacinto.eu)
-[{{< iconify fa6-brands:mastodon size=1.5em >}}](https://social.lol/@tj)
-[{{< iconify fa6-brands:lastfm size=1.5em >}}](https://www.last.fm/user/tgjac)
 
 
 ::: {.grid}
@@ -18,8 +15,6 @@ page-layout: full
 
 
 I'm a Professor at the Faculty of Medicine of the University of Porto (FMUP), with academic training in Health Sciences and Digital Health. I'm the Co-Director of the Master's in Medical Informatics at FMUP and a member of RISE@Health – Health Research Network, within the thematic line on Digital Transformation, Artificial Intelligence, Data and Decision Sciences in Health.  
-
-Learn more about [me](/about.qmd).
 
 ::: {.callout-important}
 I'm slowly (re)building this website. Some things are not done and some might break without warning! 
